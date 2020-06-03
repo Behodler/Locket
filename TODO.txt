@@ -1,0 +1,10 @@
+1. Download interfaces
+2. Create mock tokens with mock pairs.
+3. Create a mock behodler
+4. Seed mock behodler and mock pairs so that the perfect arbitrage opportunity exists. Also create a better one but with low liquidity
+5. Write tests that can identify the one that generates the highest Dai profit.
+6. Write the locket contract with tests.
+7. Write a ts library that calculates the best trade in a promise and presents it as a struct which can be passed into locked.
+8. Draw up a flow chart for creating a page on weidai front end
+9. Create front end and integrate library in dev.
+10. Now deploy and seed with real uniswap.
